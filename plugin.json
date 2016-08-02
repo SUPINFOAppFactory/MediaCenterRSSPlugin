@@ -1,0 +1,24 @@
+{
+  "author":"SUPINFO AppFactory"
+,"pluginName":"Media Center RSS Feed"
+,"pluginDescription":"Sync your RSS feeds to give your users interactive, educational, content. Import your feed once and your new posts will automatically pulled in.Related Topics:MP4,stream"
+,"supportEmail":"supinfoappfactory@supinfo.com"
+,"supportSite":"http://support.appdocumentation.com/knowledge-base/media-center-rss-feed-plugin-tutorial/"
+,"offlineModeEnabled": true
+,"control":{
+  "content":{
+    "enabled":true
+  }
+, "design":{
+    "enabled":true
+  }
+, "settings":{
+    "enabled":false
+  }
+}
+,"widget":{
+
+},
+  "features": [{"name":"BackgroundAudio"}],
+  "languages" : ["en"]
+}

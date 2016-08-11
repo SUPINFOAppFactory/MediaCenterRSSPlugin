@@ -1,7 +1,9 @@
 # pluginPluginMediaCenterRSS 
 
-
 Sync your RSS feeds to give your users interactive, educational, content. Import your feed once and your new posts will automatically pulled in.
+
+### Plugin overview
+http://support.appdocumentation.com/knowledge-base/media-center-rss-feed-plugin-tutorial
 
 ### Start Node server
 - cd server
